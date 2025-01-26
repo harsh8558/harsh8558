@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Harsh 👋</h1>
-
+<!-- <h1 align="center">Hi, I'm Harsh 👋</h1> -->
+<img src="https://res.cloudinary.com/dxmu1ohyk/image/upload/v1737903906/Screenshot_2025-01-24_171811_sagi63.png" align="center" width="100%" height="100%">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Cloud+Learner+(AWS)">
 </p>
