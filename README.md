@@ -49,7 +49,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh8558&show_icons=true&locale=en" alt="harsh8558" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh8558&" alt="harsh8558" /></p>
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=harsh8558" alt="harsh8558" /></p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh8558&theme=react-dark" />
