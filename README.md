@@ -47,7 +47,7 @@
 
 <p style="border: 2px solid white">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=harsh8558&show_icons=true&locale=en" alt="harsh8558" /></p>
 
-<p style="border: 2px solid white; padding: 5px"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh8558&show_icons=true&locale=en&layout=compact" alt="harsh8558" /></p>
+<p style="border: 2px solid white;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh8558&show_icons=true&locale=en&layout=compact" alt="harsh8558" /></p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh8558&theme=react-dark" />
